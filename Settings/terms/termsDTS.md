@@ -3,7 +3,7 @@ layout: default
 title: "大逃杀相关 技术用语"
 ---
 
-*D.T.S. = Digital Tactic Surface  数字战术界面
+* D.T.S. = Digital Tactic Surface  数字战术界面
 
 「林氏软件集团」在东之国军方鹰派的暗中支持下，基于其虚拟幻境收集的数据而制作出的一套可穿戴式的多功能电子装备。
 
